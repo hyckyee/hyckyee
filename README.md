@@ -1,4 +1,4 @@
-# 코렉코렉코코렉
+# Hi! I'm CodeREX :D
 
 ## Learning/Using
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -22,3 +22,6 @@
 *  **OS:** ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 )
+## Contact Me!
+* ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)      [My server](https://discord.gg/GegtNsmXpE) 
+
