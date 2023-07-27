@@ -14,7 +14,8 @@
 * ![2700X](https://img.shields.io/badge/AMD-Ryzen_7_2700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 * ![9980HK](https://img.shields.io/badge/Intel-Core_i9_9980HK-0071C5?style=for-the-badge&logo=intel&logoColor=white
 )
-* **GPU**: ![6950XT](https://img.shields.io/badge/AMD-Radeon_RX_6900XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white
+* **GPU** 
+* ![6950XT](https://img.shields.io/badge/AMD-Radeon_RX_6900XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white
 )
 * ![5700xt](https://img.shields.io/badge/AMD-Radeon_RX_5700XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white
 )
