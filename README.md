@@ -8,7 +8,7 @@
 
 
 ## PC specs
-* **CPU:** ![5950X](https://img.shields.io/badge/AMD-Ryzen_9_5950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white
+* **CPU** !* ![5950X](https://img.shields.io/badge/AMD-Ryzen_9_5950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white
 )
 * ![2700X](https://img.shields.io/badge/AMD-Ryzen_7_2700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 * ![9980HK](https://img.shields.io/badge/Intel-Core_i9_9980HK-0071C5?style=for-the-badge&logo=intel&logoColor=white
