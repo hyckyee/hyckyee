@@ -15,9 +15,9 @@
 )
 * **GPU**: ![6950XT](https://img.shields.io/badge/AMD-Radeon_RX_6900XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white
 )
- !* [5700xt](https://img.shields.io/badge/AMD-Radeon_RX_5700XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white
+ ! * [5700xt](https://img.shields.io/badge/AMD-Radeon_RX_5700XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white
 )
- !* [2080l](https://img.shields.io/badge/NVIDIA-RTX2080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+ ! * [2080l](https://img.shields.io/badge/NVIDIA-RTX2080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 *  **OS:** ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
