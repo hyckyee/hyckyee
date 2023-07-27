@@ -21,7 +21,8 @@
 )
  * ![2080l](https://img.shields.io/badge/NVIDIA-RTX2080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-*  **OS** * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+*  **OS** 
+* ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 )
 ## Contact Me!
