@@ -29,4 +29,6 @@
 * ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)      [My server](https://discord.gg/GegtNsmXpE)
 
   ![CodeREX's github stats](https://github-readme-stats.vercel.app/api?username=hyckyee&show_icons=true&theme=merko)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=merko)
+
 
